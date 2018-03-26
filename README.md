@@ -9,7 +9,8 @@ CPP package for onvif protocol
 
 ## Complie
 >1. mkdir build<br/>
->2. cmake .. && make
+>2. cd build<br/>
+>3. cmake .. && make
 
 ## Run
 If you compile the source code successfully,there should be a executable program in the folder which name is build<br/>
